@@ -3,8 +3,11 @@
 <h1 align="center">Hi 👋, I'm Gyan Pratap Singh</h1>
 <h3 align="center">Intern at CODECLAUSE as web devloper</h3>
 <h2>Gyan pratap singh
+  <br/>
 Kamala Nehru institute of technology Sultanpur
+  <br/>
 gps.96169@gmail.com
+  <br/>
 Dear Gyan pratap singh,</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gyanthakur&label=Profile%20views&color=0e75b6&style=flat" alt="gyanthakur" /> </p>
