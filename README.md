@@ -30,7 +30,7 @@ conditions given in Schedule A, to indicate your acceptance, within 2 days from 
 letter.
 <br/>
 We look forward to welcoming you and wish you a successful and rewarding career with us.</p>
-<img width="544" alt="Screenshot 2023-08-03 194958" src="https://github.com/Gyanthakur/Task_1_To-Do-List/assets/98226958/093668a8-0e27-49a1-8aad-0adee8fb6ba8">
+<img width="1100" alt="Screenshot 2023-08-03 194958" src="https://github.com/Gyanthakur/Task_1_To-Do-List/assets/98226958/093668a8-0e27-49a1-8aad-0adee8fb6ba8">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gyanthakur&label=Profile%20views&color=0e75b6&style=flat" alt="gyanthakur" /> </p>
 
