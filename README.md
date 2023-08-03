@@ -2,8 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Gyan Pratap Singh</h1>
 <h3 align="center">Intern at CODECLAUSE as web devloper</h3>
-<h1>Ref: CC/IS18/2351923     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                  Date- 29/07/2023  </h1>
-<h2>Gyan pratap singh
+<h1>Ref: CC/IS18/2351923    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Date- 29/07/2023  </h1>
+<h2>Gyan pratap singh&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <br/>
 Kamala Nehru institute of technology Sultanpur
   <br/>
