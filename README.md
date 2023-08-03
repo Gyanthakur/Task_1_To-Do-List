@@ -19,27 +19,16 @@ This is an educational internship. Our goal is for you to learn more about Softw
 we discussed, your internship is expected to last from Dec 2022 to 28 F eb 2023. However, at
 the sole discretion of the Company, the duration of the internship may be extended or shortened
 with or without advance notice.</p>
-<br/>
-<br/>
-<br/>
 <p>As an intern, you will not be a Company employee. Therefore, you will not receive a salary, wages,
 or other compensation. In addition, you will not be eligible for any benefits that the company offers
 its employees. You understand that participation in the internship program is not an offer of
 employment, and successful completion of the internship does not entitle you to employment with
 the company.</p>
-<br/>
-<br/>
-<br/>
-<br/>
 <p>The detailed terms and conditions of your internship are incorporated under Schedule A, which can
 be amended with due notice. Kindly login and accept this letter along with the accepting terms of
 conditions given in Schedule A, to indicate your acceptance, within 2 days from the receipt of this
 letter.
 <br/>
-<br/>
-<br/>
-<br/>
-  
 We look forward to welcoming you and wish you a successful and rewarding career with us.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gyanthakur&label=Profile%20views&color=0e75b6&style=flat" alt="gyanthakur" /> </p>
