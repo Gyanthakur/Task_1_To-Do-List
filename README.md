@@ -16,7 +16,7 @@ Dear Gyan pratap singh,</h2>
 </h3>
 <p>We are pleased to offer you an internship with CodeClause Pvt Ltd as Web Development Intern.
 This is an educational internship. Our goal is for you to learn more about Software Development. As
-we discussed, your internship is expected to last from<bold> Dec 2022 to 28 F eb 2023</bold>. However, at
+we discussed, your internship is expected to last from<h3> Dec 2022 to 28 F eb 2023</h3>. However, at
 the sole discretion of the Company, the duration of the internship may be extended or shortened
 with or without advance notice.</p>
 
